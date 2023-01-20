@@ -1,9 +1,4 @@
 # sisteminventory
 
-user 1 : admin
-email : admin@gmail.com
-password : admin
-
-user 2 : gudang
-email : gudang@gmail.com
-password : gudang
+1. import database terlebih dahulu: inventory.sql
+2. register akun
